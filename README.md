@@ -25,4 +25,5 @@ This NASA-TLX implementation is published under the [MIT license](http://www.ope
 
 ## Other implementations of the NASA-TLX
 You can also take a look at how others implemented the NASA-TLX:
-- [Keith Vertanen](http://www.keithv.com/software/nasatlx/)
+- [Keith Vertanen](http://www.keithv.com/software/nasatlx/) (implemented with HTML and JavaScript)
+- [Jonathan Polom ](https://github.com/jmpolom/NASA-TLX) (implemented with Python and wxPython)
