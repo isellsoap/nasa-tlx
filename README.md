@@ -3,6 +3,12 @@
 
 An implementation of the NASA Task Load Index (NASA-TLX).
 
+## What it’s all about?
+From the respective [Wikipedia article](http://en.wikipedia.org/wiki/NASA-TLX):
+> The NASA Task Load Index (NASA-TLX) is a subjective, multidimensional assessment tool that rates perceived workload, in order to assess a task, system, or team’s effectiveness or other aspects of performance. It was developed by the Human Performance Group at NASA’s [Ames Research Center](http://en.wikipedia.org/wiki/Ames_Research_Center) over a three year development cycle that included more than 40 laboratory simulations [1][2]. It has been cited in over 550 studies[3] and a recent search for “NASA-TLX” on Google Scholar revealed over 3,660 articles. These statistics highlight the large influence the NASA-TLX has had in [Human Factors](http://en.wikipedia.org/wiki/Human_Factors) research.
+
+Learn more about it at the [NASA-TLX website]((http://humansystems.arc.nasa.gov/groups/TLX/)). You can also take a look at the original paper [<cite>Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research</cite>](http://humansystems.arc.nasa.gov/groups/TLX/downloads/NASA-TLXChapter.pdf) (PDF format, 1.4 MB).
+
 ## Authors
 - [Francesco Schwarz](https://github.com/isellsoap/)
 
