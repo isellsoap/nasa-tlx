@@ -15,7 +15,7 @@ More infos to follow soon …
 ## Installation
 No installation required. Just [download](https://github.com/isellsoap/nasa-tlx/archive/master.zip) the ZIP file, unzip it and open `index.html` with a browser of your choice.
 
-## Tested browser
+## Tested browsers
 At this point I tested the implementation with the latest versions of
 - Chrome
 - Firefox
