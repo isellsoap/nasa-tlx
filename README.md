@@ -12,7 +12,17 @@ Learn more about it at the official [NASA-TLX website](http://humansystems.arc.n
 ## About this implementation
 More infos to follow soon …
 
-## Authors
+## Installation
+No installation required. Just [download](https://github.com/isellsoap/nasa-tlx/archive/master.zip) the ZIP file, unzip it and open `index.html` with a browser of your choice.
+
+## Tested browser
+At this point I tested the implementation with the latest versions of
+- Chrome
+- Firefox
+- Opera
+- Safari
+
+## Author
 - [Francesco Schwarz](https://github.com/isellsoap/)
 
 ## Used libraries and utilities
